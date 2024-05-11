@@ -1,0 +1,6 @@
+@POCLargeFileUploadAndDownloadinCsharp_HostAddress = http://localhost:5214
+
+GET {{POCLargeFileUploadAndDownloadinCsharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
